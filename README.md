@@ -54,7 +54,8 @@ Test - 4    DELETE :: localhost:5000/product/646a732fcdaad4fffedb11c3
 
 ### Repository URL : https://github.com/naveenmaurya7705/E-commerce-API
 
-### Hosted URL : 
+### Hosted URL :  https://e-commerce-api-7985.onrender.com/
+
 ## Contact Me
 * Email: naveenmaurya7705@gmail.com
 * Instagram: @naveenmaurya7705
